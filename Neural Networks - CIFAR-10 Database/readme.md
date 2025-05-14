@@ -195,4 +195,4 @@ However, in the loss graph, it can be seen that the training loss starts at 1.2 
 
 In one of the image tests, although not shown in the development section, an image of a bird with a green background was inserted, and the model identified it as a frog, indicating, as expected, that the model does not work correctly for all cases.
 
-It is concluded, therefore, that the model does have some difficulty making accurate predictions in some cases. This can be improved later by increasing the number of neural network layers or by using regularization techniques such as L1 and L2.
+It's concluded, therefore, that the model does have some difficulty making accurate predictions in some cases. This can be improved later by increasing the number of neural network layers or by using regularization techniques such as L1 and L2.
